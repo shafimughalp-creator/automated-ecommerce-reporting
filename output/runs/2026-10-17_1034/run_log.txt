@@ -1,0 +1,14 @@
+run started : 2026-10-17T10:34:54
+input dir   : /content/drive/MyDrive/automated-ecommerce-reporting/data/input
+output dir  : /content/drive/MyDrive/automated-ecommerce-reporting/output/runs/2026-10-17_1034
+loaded orders   : 99,441
+loaded payments : 103,886
+validation      : PASS
+clean rows      : 99,441
+monthly rows    : 25
+total revenue   : 15,739,137.01
+total orders    : 99,441
+wrote           : /content/drive/MyDrive/automated-ecommerce-reporting/output/runs/2026-10-17_1034/monthly_revenue.xlsx
+wrote           : /content/drive/MyDrive/automated-ecommerce-reporting/output/runs/2026-10-17_1034/monthly_revenue.png
+wrote           : /content/drive/MyDrive/automated-ecommerce-reporting/output/runs/2026-10-17_1034/monthly_revenue.csv
+run finished OK

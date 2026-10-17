@@ -1,0 +1,7 @@
+run started : 2026-10-17T10:34:48
+input dir   : /content/drive/MyDrive/automated-ecommerce-reporting/data/input_broken
+output dir  : /content/drive/MyDrive/automated-ecommerce-reporting/output/runs/2026-10-17_1034_BROKEN_TEST
+loaded orders   : 99,441
+loaded payments : 103,886
+VALIDATION FAILED
+olist_orders_dataset.csv: missing required column(s): ['order_id']. Refusing to run — incompatible input.
