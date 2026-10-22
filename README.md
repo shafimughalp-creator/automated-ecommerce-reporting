@@ -1,6 +1,4 @@
-Perfect. I have inserted your actual YouTube link at the very top, right next to the Colab link. 
 
-Here is the final, 100% complete README. Copy everything below and paste it into your GitHub `README.md`.
 
 ***
 
